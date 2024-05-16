@@ -398,3 +398,9 @@ Temporary Items
 dist
 .webpack
 .serverless/**/*.zip
+
+
+
+.prettierrc
+yarn-error.log
+prettier.config.js
